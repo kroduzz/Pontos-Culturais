@@ -1,0 +1,140 @@
+#prim, #seg, #ter, #quar, #quin, #sex, #set, #oit, #nov, #dez { 
+float:left;
+width:45px;
+margin:0 0 0 5px;
+width: 215px;
+}
+
+#mapid {
+	width: 600px; 
+	height: 400px; 
+	margin-top: 700px; 
+	margin-left: 800px;
+}
+
+#fundo {
+	background: rgb(0, 128, 128);
+	color: #fff;
+}
+
+header {
+	background: rgb(0, 128, 128);
+  	color: #fff;
+  	text-align: center;
+}
+
+body {
+	background-color: rgb(210, 255, 255)
+}
+
+#enum {
+	text-align: center;
+}
+
+#texto-mapa {
+	margin:100px;
+	text-align: left;
+	margin-top: -300px;
+}
+
+
+#banner {
+	width: 100%;
+	height: 80px;
+}
+
+#num1 {
+	margin:80px;
+	margin-top: 40px;
+    position: relative;
+    width: 200px;
+    height: 200px;
+    float: left;
+}
+
+#num2 {
+	margin:40px;
+    position: relative;
+    width: 200px;
+    height: 200px;
+    float: left;
+}
+
+#num3 {
+	margin:40px;
+    position: relative;
+    width: 200px;
+    height: 200px;
+    float: left;
+}
+
+#num4 {
+	margin:40px;
+    position: relative;
+    width: 200px;
+    height: 200px;
+    float: left;
+}
+
+#num5 {
+	margin:40px;
+    position: relative;
+    width: 200px;
+    height: 200px;
+    float: left;
+}
+
+#num6 {
+	margin:50px;
+    position: relative;
+    width: 200px;
+    height: 200px;
+    float: left;
+}
+
+#num7 {
+	margin:50px;
+    margin-top: 35px;
+    position: relative;
+    width: 200px;
+    height: 200px;
+    float: left;
+}
+
+#num8 {
+	margin:50px;
+    position: relative;
+    width: 200px;
+    height: 200px;
+    float: left;
+}
+
+#num9 {
+	margin:50px;
+    position: relative;
+    width: 200px;
+    height: 200px;
+    float: left;
+}
+
+#num10 {
+	margin:80px;
+	margin-top: -260px;
+    position: relative;
+    width: 200px;
+    height: 200px;
+    float: left;
+}
+
+
+footer {
+	background: rgb(0, 128, 128);
+	width: 100%;
+	height: 28px;
+	border-top: 1px solid #E0E0E0;
+	position: absolute;
+	bottom: -800px; 
+	left: 0px; 
+	text-align: center; 
+}
+   

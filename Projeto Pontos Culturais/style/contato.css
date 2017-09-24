@@ -1,0 +1,37 @@
+
+div {
+  border: 3px solid grey;
+}
+
+ul {
+	list-style-type: none;
+    padding: 0;
+    margin: 10px;
+}
+
+form{
+	display: inherit;
+	padding: 0.4em 0.3em;
+  margin: 10px;
+  border-spacing: 4px;
+  background-color: rgb(200, 300, 285)
+}
+
+#enviar{
+	color: white;
+	padding: 0.8em 1em;
+  background: rgb(0, 128, 128);
+  min-width: 10%;
+  height: 20%;
+}
+
+textarea{
+	min-width: 30%;	
+}
+
+h2 {
+  background: rgb(0, 128, 128);
+  color: #fff;
+  text-align: center;
+  border: 3px solid grey ;
+}
