@@ -1,0 +1,30 @@
+
+figure {
+	position:relative;
+	width:400px;
+	float:left;
+}
+
+form{
+  display: inherit;
+  padding: 0.4em 0.3em;
+  margin: 10px;
+  border-spacing: 4px;
+  background-color: rgb(200, 300, 285)
+}
+
+h2 {
+  background: rgb(0, 128, 128);
+  color: #fff;
+  text-align: center;
+  border: 3px solid grey ;
+}
+
+.foto {
+  border: 7px solid grey;
+}
+
+
+.dentro {
+	margin-bottom: 350px;
+}

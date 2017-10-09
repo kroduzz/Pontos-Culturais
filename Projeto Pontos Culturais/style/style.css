@@ -37,6 +37,9 @@ body {
 	margin-top: -300px;
 }
 
+#pessoal {
+	margin-left: 1500px;
+}
 
 #banner {
 	width: 100%;
@@ -78,14 +81,14 @@ body {
 
 #num5 {
 	margin:40px;
-    position: relative;
     width: 200px;
     height: 200px;
     float: left;
 }
 
 #num6 {
-	margin:50px;
+    margin:50px;
+    margin-top: 35px;
     position: relative;
     width: 200px;
     height: 200px;
@@ -118,8 +121,7 @@ body {
 }
 
 #num10 {
-	margin:80px;
-	margin-top: -260px;
+	margin: 60px;
     position: relative;
     width: 200px;
     height: 200px;
